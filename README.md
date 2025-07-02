@@ -1,1 +1,1 @@
-# LC_CX
+# LangChain_Practice
